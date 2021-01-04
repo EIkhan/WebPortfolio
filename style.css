@@ -126,13 +126,14 @@ font-weight: 700;
 /* third selection paragraph */
 .Dev-one{
     font-family: 'Do Hyeon', sans-serif;
+    font-size: 20px;
 }
 
 .single-experience{
 
     box-shadow: 10px 10px 40px gray;
     border-radius : 5px;
-    height: 250%;
+    height: 80%;
     background-color: white;
 
 }
