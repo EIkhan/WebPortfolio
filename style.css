@@ -19,3 +19,18 @@ h1{
 .website{
     color: #03a9f4;
 }
+
+/*Div Added image Discription*/
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left:5%;
+    padding-left: 2%;
+
+}
+
+
+.half-width img{
+    width:125%;
+}
