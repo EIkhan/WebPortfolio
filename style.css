@@ -34,3 +34,10 @@ h1{
 .half-width img{
     width:115%;
 }
+
+
+/* add bacground image */
+
+.top-banner{
+    background-image: url("images/top-banner.png");
+}
