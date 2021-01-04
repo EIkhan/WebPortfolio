@@ -47,7 +47,10 @@ h1{
 }
 section{
     height: 500px;
+    padding-bottom:150px ;
 }
+
+/* added button */
 
 .link-button{
     text-decoration: none;
