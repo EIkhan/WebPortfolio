@@ -1,7 +1,21 @@
+/* header Tag */
 h1{
     font-family: 'Bubblegum Sans', cursive;
 }
 
+
+
 h1{
     font-size: 50px;
+}
+.user-name{
+    color: #ff5722;
+}
+
+.welcome{
+    color: #6a1b9a;
+}
+
+.website{
+    color: #03a9f4;
 }
