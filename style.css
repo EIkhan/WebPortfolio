@@ -10,6 +10,11 @@ h1{
     font-size: 50px;
 }
 
+/*paragraph front*/
+.paragraph{
+    font-family: 'Do Hyeon', sans-serif;
+}
+
 h2{
     font: size 40px;
 }
@@ -87,4 +92,31 @@ font-weight: 700;
     background-image: url("images/dream-bg.png");
     background-repeat:no-repeat ;
     background-position: right;
+}
+
+
+/*second section second div part */
+.vision{
+    font-family: 'Bubblegum Sans', cursive;
+    color: #ff5722;
+}
+
+.build{
+    font-family: 'Bubblegum Sans', cursive;
+    color: #03a9f4;
+}
+
+.paragraph-two{
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+/*Third section part */
+.expe{
+    font-family: 'Bubblegum Sans', cursive;
+    color: #ff5722;
+}
+
+.Dev{
+    font-family: 'Bubblegum Sans', cursive;
+    color: #03a9f4;
 }
