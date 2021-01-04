@@ -6,11 +6,18 @@ h1{
     font-family: 'Bubblegum Sans', cursive;
 }
 
-
-
 h1{
     font-size: 50px;
 }
+
+h2{
+    font: size 40px;
+}
+
+p{
+    color: dimgray;
+}
+
 .user-name{
     color: #ff5722;
 }
@@ -59,4 +66,19 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+
+.github{
+text-decoration: none;
+background-image:linear-gradient(45deg,#ff5722 ,tomato);
+padding: 10px 20px;
+border-radius: 5px;
+color: white;
+font-weight: 700;
+}
+
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat:no-repeat ;
+    background-position: right;
 }
