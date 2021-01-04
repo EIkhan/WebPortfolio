@@ -1,3 +1,6 @@
+.body{
+    margin: 0%;
+}
 /* body with header Tag */
 h1{
     font-family: 'Bubblegum Sans', cursive;
@@ -40,4 +43,8 @@ h1{
 
 .top-banner{
     background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
 }
