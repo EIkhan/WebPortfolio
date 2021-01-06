@@ -1,3 +1,17 @@
+.navup-right {
+    float: right;
+    padding: 40px;
+    margin-left: 5px;
+}
+
+#nav {
+    padding: 0px 20px;
+    color: #ff5722;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
 .body{
     margin: 0%;
 }
@@ -113,11 +127,11 @@ font-weight: 700;
   }
   
   
-  .wrapper{
+  .Assignment{
     margin-top: 10%;
   }
   
-  .wrapper h1{
+  .Assignment h1{
     font-family: 'Bubblegum Sans', cursive;
     font-size: 52px;
     color: #ff5722;
