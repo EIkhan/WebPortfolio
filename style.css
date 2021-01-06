@@ -53,7 +53,7 @@ p{
 
 
 .half-width img{
-    width:100%;
+    width:80%;
 }
 
 
@@ -88,13 +88,6 @@ color: white;
 font-weight: 700;
 }
 
-.dream-area{
-    background-image: url("images/dream-bg.png");
-    background-repeat:no-repeat ;
-    background-position: right;
-}
-
-
 /*second section second div part */
 .vision{
     font-family: 'Bubblegum Sans', cursive;
@@ -111,55 +104,128 @@ font-weight: 700;
     padding-right: 25%;
 }
 
-/*Third section part */
-.expe{
+
+
+*{
+    margin: 2;
+    padding: 2;
+    box-sizing: border-box;
+  }
+  
+  
+  .wrapper{
+    margin-top: 10%;
+  }
+  
+  .wrapper h1{
     font-family: 'Bubblegum Sans', cursive;
+    font-size: 52px;
     color: #ff5722;
-}
-
-.Dev{
-    font-family: 'Bubblegum Sans', cursive;
-    color: #03a9f4;
-}
-
-
-/* third selection paragraph */
-.Dev-one{
-    font-family: 'Do Hyeon', sans-serif;
-    
-}
-
-.single-experience{
-
-    box-shadow: 10px 10px 40px gray;
-    border-radius : 5px;
-    height: 80%;
-    background-color: white;
-
-}
-
-.Experience-area{
-    background-image: url("images/exp-bg.png");
-    background-repeat: no-repeat;
-    background-position: left;
-}
-
-#full-stack{
-    border-left: 7px solid;
-    border-image: linear-gradient(180deg,lightSalmon,tomato);
-    border-image-slice: 1;
-
-}
-
-#data-science{
-
-    border-left: 7px solid;
-    border-image: linear-gradient(180deg,blue,cyan);
-    border-image-slice: 1;
-}
-footer p{
+    margin-bottom: 60px;
     text-align: center;
-    font-size: 12px;
+  }
+  
+  .team{
+    display: flex;
+    justify-content: center;
+    width: auto;
+    text-align: center;
+    flex-wrap: wrap;
+  }
+  
+.team .team_member{
+    margin: 2px;
+    margin-bottom: 50px;
+    width: 400px;
+    padding: 20px;
+    line-height: 20px;
+    color: #8e8b8b;  
+    position: relative;
+  }
 
 
-}
+  .pera{
+      font-size: 10px;
+      
+  }
+  
+
+  .team .team_member h3{
+    color: #81c644;
+    font-size: 16px;
+    margin-top: 15px;
+    font-size: 35px;
+  }
+  
+  .team .team_member p.role{
+    color: #ccc;
+    margin: 10px 0;
+    font-size: 10px;
+    
+  }
+ 
+  .team .team_member .team_img{
+    top: -4475px;
+    left: 75%;
+   
+    width: 100px;
+    height: 120px;
+    border-radius: 5555533850%;
+    
+  }
+  
+  .team .team_member .team_img img{
+    width: 500px;
+    height: 350px;
+    padding: 70px;
+  }
+  
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
