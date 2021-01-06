@@ -126,6 +126,9 @@ font-weight: 700;
     box-sizing: border-box;
   }
   
+
+
+  /* added assignment*/
   
   .Assignment{
     margin-top: 10%;
@@ -222,9 +225,7 @@ font-weight: 700;
     width:40%;
     
  }
-.text-box .Let-me{
-     padding-right: 250px;
-}
+
  
  
 footer h1{
@@ -232,6 +233,9 @@ footer h1{
     font-size: 50px;
 }
 
+
+
+/*icon bar */
 
 .icon-bar {
     
